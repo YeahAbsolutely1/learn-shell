@@ -13,3 +13,6 @@ Date=$(date +%F)
 
 echo Hey Today date is $Date
 
+SUBSTITUTE=$((5-3))
+
+echo Substitute - $SUBSTITUTE
