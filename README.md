@@ -9,4 +9,5 @@ Shell Topics
 6. Exit Status
 7. Inputs
 8. Quotes 
-9. SED (Stream line editor)
+9. Redirectors
+10.SED (Stream line editor)
