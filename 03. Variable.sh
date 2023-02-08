@@ -9,7 +9,7 @@ echo Team Name - $Team
 
 #Date = 08-02-2023
 
-Date=$(Date +%F)
+Date=$(date +%F)
 
 echo Hey Today date is $Date
 
