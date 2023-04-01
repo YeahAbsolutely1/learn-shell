@@ -16,11 +16,3 @@ echo Hey Today date is $Date
 SUBSTITUTE=$((5-3))
 
 echo Substitute - $SUBSTITUTE
-
-ADD=$((5+3))
-
-echo Add - $ADD
-
-##Variable from command line
-
-echo d - $d
