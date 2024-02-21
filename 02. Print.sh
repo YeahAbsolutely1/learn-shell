@@ -1,6 +1,9 @@
 echo Hello World
 
 echo Hello Eliezer
+
+echo *****Hello Eliezer*****
+
 echo ****Hello World****
 echo "****Hello World****"
 
