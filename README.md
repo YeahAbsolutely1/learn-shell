@@ -12,5 +12,6 @@ Shell Topics
 9. Redirectors
 10.SED (Stream line editor)
 
+You can call overall these 10 topics as a shell scripting.
 
 ##
