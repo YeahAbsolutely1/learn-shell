@@ -4,6 +4,8 @@ echo Hello Eliezer
 
 echo *****Hello Eliezer*****
 
+echo "$$$$$$$Hello Tylor$$$$$$$$"
+
 echo ****Hello World****
 echo "****Hello World****"
 
