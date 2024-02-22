@@ -4,7 +4,7 @@ echo Hello Eliezer
 
 echo *****Hello Eliezer*****
 
-echo "*************Hello Tylor************"
+echo "*************Hello Taylor************"
 
 echo ****Hello World****
 echo "****Hello World****"
@@ -24,3 +24,11 @@ echo -e "\e[33m Welcome to New York\e[0m"
 echo -e "\e[34m Welcome to New York\e[0m"
 echo -e "\e[35m Welcome to New York\e[0m"
 echo -e "\e[36m Welcome to New York\e[0m"
+
+
+echo -e "\e[31m Ab Delhi dur nahi\e[0m"
+ehco -e "\e[32m Ab Delhi dur nahi\e[0m"
+echo -e "\e[33m Ab Delhi dur nahi\e[0m"
+echo -e "\e[34m Ab Delhi dur nahi\e[0m"
+echo -e "\e[35m Ab Delhi dur nahi\e[0m"
+echo -e "\e[36m Ab Delhi dur nahi\e[0m"
