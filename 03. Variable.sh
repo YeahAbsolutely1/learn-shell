@@ -1,18 +1,10 @@
 # If we assign a name to a set of data is called as Variable
 
-Coach=Rahul
-Team=Cricket
+Trainer=Raghu
+Class=DevOps
 
 
-echo Coach Name - $Coach
-echo Team Name - $Team
+echo Trainer Name - $Trainer
+echo Class Name - $Class
 
-#Date = 08-02-2023
 
-Date=$(date +%F)
-
-echo Hey Today date is $Date
-
-SUBSTITUTE=$((5-3))
-
-echo Substitute - $SUBSTITUTE
