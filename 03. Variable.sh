@@ -15,4 +15,4 @@ echo Hey, Today date is $Date
 
 ADD=$((2+3))
 
-echo Add -$ADD
+echo ADD - $ADD
