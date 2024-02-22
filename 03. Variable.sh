@@ -12,3 +12,7 @@ echo Class Name - $Class
 Date=$(date +%F)
 
 echo Hey, Today date is $Date
+
+ADD=$((2+3))
+
+echo Add -$ADD
