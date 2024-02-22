@@ -7,4 +7,7 @@ Class=DevOps
 echo Trainer Name - $Trainer
 echo Class Name - $Class
 
+#Date=2024-02-22
+Date=$(date +%F)
 
+echo Hey, Today date is $Date
