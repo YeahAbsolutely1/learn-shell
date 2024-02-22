@@ -27,6 +27,7 @@ echo -e "\e[36m Welcome to New York\e[0m"
 
 
 echo -e "\e[31m Ab Delhi dur nahi\e[0m"
+
 echo -e "\e[32m Ab Delhi dur nahi\e[0m"
 echo -e "\e[33m Ab Delhi dur nahi\e[0m"
 echo -e "\e[34m Ab Delhi dur nahi\e[0m"
